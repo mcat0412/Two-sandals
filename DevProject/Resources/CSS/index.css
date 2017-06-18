@@ -1,0 +1,22 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+
+h1 {
+  color: Green;
+}
+p,
+li {
+  font-size: 18px;
+}
+li {
+  color: gray;
+}
+.contact {
+  font-size: 14px;
+}
+
+a {
+  text-decoration: none;
+}
